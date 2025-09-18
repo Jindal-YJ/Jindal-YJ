@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuvraj Jindal
 - 👀 I’m interested in Programming, Machine Learning and solving complex problems
-- 🌱 I’m currently learning Java, Python, C, SQL, & ML.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, Python, C, JavaScript, SQL, & ML.
+- 💞️ I’m looking to collaborate on ML Projects.
 - 📫 How to reach me - jindalyuvraj10@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
